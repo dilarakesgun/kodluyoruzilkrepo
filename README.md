@@ -1,23 +1,23 @@
-#Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz] (https://academy.patika.dev/paths/baslangic-seviye-veri-bilimi-patikasi) Front End eğitiminde oluşturduğum il repo. İçerisinde bir adet
+# Kodluyoruz Ilk Repo
+Bu repo [Kodluyoruz](https://academy.patika.dev/paths/baslangic-seviye-veri-bilimi-patikasi) Front End eğitiminde oluşturduğum il repo. İçerisinde bir adet
 README dosyası , bir adet de index.html dosyası barındırıyor.
 
-#Installation
+# Installation
 Öncelikle projeyi clonelayın. 
-'git clone url '
+`git clone url`
 
-#Usage
+# Usage
 Proje clonelandıktan sonra Visual Studio Code programında açınız.
 Linux için 
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
-#Contributing
+```
+# Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek
 istediğinizi tartışmak için konu açınız.
 
-#License
-[MIT] (LICENSE)
+# License
+[MIT](LICENSE)
 
 
